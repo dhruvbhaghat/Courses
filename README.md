@@ -2,7 +2,6 @@
 demo Project submission
 
 LEARNING DASHBOARD (iOS - SwiftUI, Combine, async/await)
-Run: brew install xcodegen; xcodegen generate; open the project (iOS 17+).
 Demo login: student@example.com / Password123
  
 1. ARCHITECTURE
